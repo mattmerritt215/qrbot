@@ -14,5 +14,10 @@
     "node"
   ],
   "author": "@mattmerritt215",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "grammy": "^1.18.1",
+    "qrcode": "^1.5.3"
+  }
 }

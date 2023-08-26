@@ -1,5 +1,5 @@
 import { Composer } from 'grammy';
-import { Context } from '../context';
+import { Context } from '../helpers/context';
 import { States } from '../helpers/constants';
 
 export const help = new Composer<Context>();
